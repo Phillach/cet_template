@@ -1,14 +1,14 @@
 
 /* --------------------------------------------
 Google Map
--------------------------------------------- */	
+-------------------------------------------- */
 window.onload = MapLoadScript;
 function GmapInit() {
 	  Gmap = $('.map-canvas');
 	  Gmap.each(function() {
 		var $this           = $(this),
-			lat             = '',
-			lng             = '',
+			lat             = '48.1212323',
+			lng             = '-77.83002210000001',
 			zoom            = 12,
 			scrollwheel     = false,
 			zoomcontrol 	= true,
@@ -25,7 +25,7 @@ function GmapInit() {
 			dataHue         = $this.data('hue'),
 			dataTitle       = $this.data('title'),
 			dataContent     = $this.data('content');
-			
+
 		if( dataZoom !== undefined && dataZoom !== false ) {
 			zoom = parseFloat(dataZoom);
 		}
@@ -48,7 +48,7 @@ function GmapInit() {
 				mapType = google.maps.MapTypeId.HYBRID;
 			} else if( dataType == 'terrain' ) {
 				mapType = google.maps.MapTypeId.TERRAIN;
-			}		  	
+			}
 		}
 		if( dataTitle !== undefined && dataTitle !== false ) {
 			title = dataTitle;
@@ -56,7 +56,7 @@ function GmapInit() {
 		if( navigator.userAgent.match(/iPad|iPhone|Android/i) ) {
 			draggable = false;
 		}
-		
+
 		var mapOptions = {
 		  zoom        : zoom,
 		  scrollwheel : scrollwheel,
@@ -64,9 +64,9 @@ function GmapInit() {
 		  draggable   : draggable,
 		  center      : new google.maps.LatLng(lat, lng),
 		  mapTypeId   : mapType
-		};		
+		};
 		var map = new google.maps.Map($this[0], mapOptions);
-		
+
 		var image = 'images/icons/map-marker.png';
 		if( dataContent !== undefined && dataContent !== false ) {
 			contentString = '<div class="map-data">' + '<h6>' + title + '</h6>' + '<div class="map-content">' + dataContent + '</div>' + '</div>';
@@ -74,7 +74,7 @@ function GmapInit() {
 		var infowindow = new google.maps.InfoWindow({
 			content: contentString
 		});
-		
+
 		var marker = new google.maps.Marker({
 		  position : new google.maps.LatLng(lat, lng),
 		  map      : map,
@@ -86,7 +86,7 @@ function GmapInit() {
 				infowindow.open(map,marker);
 			});
 		}
-		
+
 		if( dataHue !== undefined && dataHue !== false ) {
 		  var styles = [
     {
@@ -172,11 +172,10 @@ function GmapInit() {
 		}
 	 });
 }
-	
+
 function MapLoadScript() {
 	var script = document.createElement('script');
 	script.type = 'text/javascript';
 	GmapInit();
 	document.body.appendChild(script);
 }
-

@@ -1,5 +1,5 @@
 
-/*** 
+/***
 
 ====================================================================
 	Default Color Scheme
@@ -58,21 +58,21 @@
 .default-color .sidebar .popular-posts .post a:hover,
 .default-color .sidebar-page-container .social-links a,
 .default-color .contact-section .contact-info .info-column .icon{
-	color:#004786;	
+	color:#004786;
 }
 
 .default-color .featured-project-carousel .owl-prev,
 .default-color .featured-project-carousel .owl-next,
 .default-color .team-section .owl-next,
 .default-color .team-section .owl-prev {
-	color:#004786 !important;	
+	color:#004786 !important;
 }
 
 .default-color .featured-project-carousel .owl-prev:hover,
 .default-color .featured-project-carousel .owl-next:hover,
 .default-color .team-section .owl-next:hover,
 .default-color .team-section .owl-prev:hover {
-	color:#ffffff !important;	
+	color:#ffffff !important;
 }
 
 .featured-project-carousel .owl-prev:hover,
@@ -85,7 +85,7 @@
 .default-color .pricing-column.featured-column .inner-box .theme-btn,
 .default-color .scroll-to-top:hover,
 .default-color .error-section .text .theme-btn{
-	background:#004786 !important;	
+	background:#004786 !important;
 }
 
 /*Background color*/
@@ -103,12 +103,12 @@
 .default-color .color-palate-head,
 .default-color .sidebar-page-container .comments-area .reply-btn,
 .default-color .sidebar-page-container .social-links a:hover{
-	background:#004786;	
+	background:#004786;
 }
 
 .default-color .call-to-action .outer .inner .layer-right,
 .default-color .color-trigger{
-	background:#023767;	
+	background:#023767;
 }
 
 .default-color .team-member .inner-box .overlay-content,
@@ -155,13 +155,13 @@
 .default-color .contact-section .form .form-group input[type="number"],
 .default-color .contact-section .form .form-group select,
 .default-color .contact-section .form .form-group textarea{
-	border-color:#004786;	
+	border-color:#004786;
 }
 
 
 /*Main SLider*/
 .default-color .main-slider .tp-dottedoverlay{
-	background-color:rgba(0,0,0,0.25) !important;	
+	background-color:rgba(0,0,0,0.25) !important;
 }
 
 .default-color .main-slider .tp-bullets.preview3 .bullet:hover,
@@ -176,7 +176,7 @@
 	border-color:#004786;
 }
 
-/*** 
+/***
 
 ====================================================================
 	Yellow Color Scheme
@@ -235,21 +235,21 @@
 .allyellow .sidebar .popular-posts .post a:hover,
 .allyellow .sidebar-page-container .social-links a,
 .allyellow .contact-section .contact-info .info-column .icon{
-	color:#f3cf3f;	
+	color:#f3cf3f;
 }
 
 .allyellow .featured-project-carousel .owl-prev,
 .allyellow .featured-project-carousel .owl-next,
 .allyellow .team-section .owl-next,
 .allyellow .team-section .owl-prev {
-	color:#f3cf3f !important;	
+	color:#f3cf3f !important;
 }
 
 .allyellow .featured-project-carousel .owl-prev:hover,
 .allyellow .featured-project-carousel .owl-next:hover,
 .allyellow .team-section .owl-next:hover,
 .allyellow .team-section .owl-prev:hover {
-	color:#ffffff !important;	
+	color:#ffffff !important;
 }
 
 .allyellow .featured-project-carousel .owl-prev:hover,
@@ -262,7 +262,7 @@
 .allyellow .pricing-column.featured-column .inner-box .theme-btn,
 .allyellow .scroll-to-top:hover,
 .allyellow .error-section .text .theme-btn{
-	background:#f3cf3f !important;	
+	background:#f3cf3f !important;
 }
 
 /*Background color*/
@@ -280,18 +280,18 @@
 .allyellow .color-palate-head,
 .allyellow .sidebar-page-container .comments-area .reply-btn,
 .allyellow .sidebar-page-container .social-links a:hover{
-	background:#f3cf3f;	
+	background:#f3cf3f;
 }
 
 .allyellow .call-to-action .outer .inner .layer-right,
 .allyellow .color-trigger{
-	background:#e3c23c;	
+	background:#e3c23c;
 }
 
 .allyellow .team-member .inner-box .overlay-content,
 .allyellow .project-details .image-column .inner-box:before,
 .allyellow .sidebar .insta-feeds .thumbs-outer .image-thumb .lightbox-image{
-	background:rgba(205,165,6,0.80);	
+	background:rgba(205,165,6,0.80);
 }
 
 /*Border color*/
@@ -326,13 +326,13 @@
 .allyellow .contact-section .form .form-group input[type="number"],
 .allyellow .contact-section .form .form-group select,
 .allyellow .contact-section .form .form-group textarea{
-	border-color:#f3cf3f;	
+	border-color:#f3cf3f;
 }
 
 
 /*Main SLider*/
 .allyellow .main-slider .tp-dottedoverlay{
-	background-color:rgba(0,0,0,0.60) !important;	
+	background-color:rgba(0,0,0,0.60) !important;
 }
 
 .allyellow .main-slider .tp-bullets.preview3 .bullet:hover,
@@ -348,7 +348,7 @@
 }
 
 
-/*** 
+/***
 
 ====================================================================
 	Orange Scheme
@@ -407,21 +407,21 @@
 .allorange .sidebar .popular-posts .post a:hover,
 .allorange .sidebar-page-container .social-links a,
 .allorange .contact-section .contact-info .info-column .icon{
-	color:#f37020;	
+	color:#f37020;
 }
 
 .allorange .featured-project-carousel .owl-prev,
 .allorange .featured-project-carousel .owl-next,
 .allorange .team-section .owl-next,
 .allorange .team-section .owl-prev {
-	color:#f37020 !important;	
+	color:#f37020 !important;
 }
 
 .allorange .featured-project-carousel .owl-prev:hover,
 .allorange .featured-project-carousel .owl-next:hover,
 .allorange .team-section .owl-next:hover,
 .allorange .team-section .owl-prev:hover {
-	color:#ffffff !important;	
+	color:#ffffff !important;
 }
 
 .allorange .featured-project-carousel .owl-prev:hover,
@@ -434,7 +434,7 @@
 .allorange .pricing-column.featured-column .inner-box .theme-btn,
 .allorange .scroll-to-top:hover,
 .allorange .error-section .text .theme-btn{
-	background:#f37020 !important;	
+	background:#f37020 !important;
 }
 
 /*Background color*/
@@ -452,18 +452,18 @@
 .allorange .color-palate-head,
 .allorange .sidebar-page-container .comments-area .reply-btn,
 .allorange .sidebar-page-container .social-links a:hover{
-	background:#f37020;	
+	background:#f37020;
 }
 
 .allorange .call-to-action .outer .inner .layer-right,
 .allorange .color-trigger{
-	background:#d0611d;	
+	background:#d0611d;
 }
 
 .allorange .team-member .inner-box .overlay-content,
 .allorange .project-details .image-column .inner-box:before,
 .allorange .sidebar .insta-feeds .thumbs-outer .image-thumb .lightbox-image{
-	background:rgba(209,132,85,0.80);	
+	background:rgba(209,132,85,0.80);
 }
 
 .allorange .fact-counter-section:before,
@@ -508,13 +508,13 @@
 .allorange .contact-section .form .form-group input[type="number"],
 .allorange .contact-section .form .form-group select,
 .allorange .contact-section .form .form-group textarea{
-	border-color:#f37020;	
+	border-color:#f37020;
 }
 
 
 /*Main SLider*/
 .allorange .main-slider .tp-dottedoverlay{
-	background-color:rgba(0,0,0,0.25) !important;	
+	background-color:rgba(0,0,0,0.25) !important;
 }
 
 .allorange .main-slider .tp-bullets.preview3 .bullet:hover,
@@ -530,7 +530,7 @@
 }
 
 
-/*** 
+/***
 
 ====================================================================
 	Green Scheme
@@ -589,21 +589,21 @@
 .allgreen .sidebar .popular-posts .post a:hover,
 .allgreen .sidebar-page-container .social-links a,
 .allgreen .contact-section .contact-info .info-column .icon{
-	color:#5b8f17;	
+	color:#5b8f17;
 }
 
 .allgreen .featured-project-carousel .owl-prev,
 .allgreen .featured-project-carousel .owl-next,
 .allgreen .team-section .owl-next,
 .allgreen .team-section .owl-prev {
-	color:#5b8f17 !important;	
+	color:#5b8f17 !important;
 }
 
 .allgreen .featured-project-carousel .owl-prev:hover,
 .allgreen .featured-project-carousel .owl-next:hover,
 .allgreen .team-section .owl-next:hover,
 .allgreen .team-section .owl-prev:hover {
-	color:#ffffff !important;	
+	color:#ffffff !important;
 }
 
 .allgreen .featured-project-carousel .owl-prev:hover,
@@ -616,7 +616,7 @@
 .allgreen .pricing-column.featured-column .inner-box .theme-btn,
 .allgreen .scroll-to-top:hover,
 .allgreen .error-section .text .theme-btn{
-	background:#5b8f17 !important;	
+	background:#5b8f17 !important;
 }
 
 /*Background color*/
@@ -634,18 +634,18 @@
 .allgreen .color-palate-head,
 .allgreen .sidebar-page-container .comments-area .reply-btn,
 .allgreen .sidebar-page-container .social-links a:hover{
-	background:#5b8f17;	
+	background:#5b8f17;
 }
 
 .allgreen .call-to-action .outer .inner .layer-right,
 .allgreen .color-trigger{
-	background:#568815;	
+	background:#568815;
 }
 
 .allgreen .team-member .inner-box .overlay-content,
 .allgreen .project-details .image-column .inner-box:before,
 .allgreen .sidebar .insta-feeds .thumbs-outer .image-thumb .lightbox-image{
-	background:rgba(106,167,27,0.80);	
+	background:rgba(106,167,27,0.80);
 }
 
 .allgreen .fact-counter-section:before,
@@ -690,13 +690,13 @@
 .allgreen .contact-section .form .form-group input[type="number"],
 .allgreen .contact-section .form .form-group select,
 .allgreen .contact-section .form .form-group textarea{
-	border-color:#5b8f17;	
+	border-color:#5b8f17;
 }
 
 
 /*Main SLider*/
 .allgreen .main-slider .tp-dottedoverlay{
-	background-color:rgba(0,0,0,0.25) !important;	
+	background-color:rgba(0,0,0,0.25) !important;
 }
 
 .allgreen .main-slider .tp-bullets.preview3 .bullet:hover,
@@ -712,7 +712,7 @@
 }
 
 
-/*** 
+/***
 
 ====================================================================
 	Blue Scheme
@@ -771,21 +771,21 @@
 .allblue .sidebar .popular-posts .post a:hover,
 .allblue .sidebar-page-container .social-links a,
 .allblue .contact-section .contact-info .info-column .icon{
-	color:#46a5e5;	
+	color:#46a5e5;
 }
 
 .allblue .featured-project-carousel .owl-prev,
 .allblue .featured-project-carousel .owl-next,
 .allblue .team-section .owl-next,
 .allblue .team-section .owl-prev {
-	color:#46a5e5 !important;	
+	color:#46a5e5 !important;
 }
 
 .allblue .featured-project-carousel .owl-prev:hover,
 .allblue .featured-project-carousel .owl-next:hover,
 .allblue .team-section .owl-next:hover,
 .allblue .team-section .owl-prev:hover {
-	color:#ffffff !important;	
+	color:#ffffff !important;
 }
 
 .allblue .featured-project-carousel .owl-prev:hover,
@@ -798,7 +798,7 @@
 .allblue .pricing-column.featured-column .inner-box .theme-btn,
 .allblue .scroll-to-top:hover,
 .allblue .error-section .text .theme-btn{
-	background:#46a5e5 !important;	
+	background:#46a5e5 !important;
 }
 
 /*Background color*/
@@ -816,18 +816,18 @@
 .allblue .color-palate-head,
 .allblue .sidebar-page-container .comments-area .reply-btn,
 .allblue .sidebar-page-container .social-links a:hover{
-	background:#46a5e5;	
+	background:#46a5e5;
 }
 
 .allblue .call-to-action .outer .inner .layer-right,
 .allblue .color-trigger{
-	background:#3c90c8;	
+	background:#3c90c8;
 }
 
 .allblue .team-member .inner-box .overlay-content,
 .allblue .project-details .image-column .inner-box:before,
 .allblue .sidebar .insta-feeds .thumbs-outer .image-thumb .lightbox-image{
-	background:rgba(41,113,162,0.80);	
+	background:rgba(41,113,162,0.80);
 }
 
 .allblue .fact-counter-section:before,
@@ -872,13 +872,13 @@
 .allblue .contact-section .form .form-group input[type="number"],
 .allblue .contact-section .form .form-group select,
 .allblue .contact-section .form .form-group textarea{
-	border-color:#46a5e5;	
+	border-color:#46a5e5;
 }
 
 
 /*Main SLider*/
 .allblue .main-slider .tp-dottedoverlay{
-	background-color:rgba(0,0,0,0.25) !important;	
+	background-color:rgba(0,0,0,0.25) !important;
 }
 
 .allblue .main-slider .tp-bullets.preview3 .bullet:hover,
@@ -895,7 +895,7 @@
 
 
 
-/*** 
+/***
 
 ====================================================================
 	Secondary Color Style

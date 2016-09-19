@@ -11,7 +11,7 @@ function GmapInit() {
 			lng             = '-77.83002210000001',
 			zoom            = 12,
 			scrollwheel     = false,
-			zoomcontrol 	= true,
+			zoomcontrol 		= true,
 			draggable       = true,
 			mapType         = google.maps.MapTypeId.ROADMAP,
 			title           = '',
